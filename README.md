@@ -3,4 +3,4 @@
 
 ###Usage
 
-Just open the directory with Android Studio
+Just open the CordovaAndroidStudioTemplate directory with Android Studio
