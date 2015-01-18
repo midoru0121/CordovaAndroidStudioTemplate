@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ataru/Desktop/CordovaApp/app/build/intermediates/exploded-aar/CordovaApp/CordovaLibrary/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1abeab4873d0bebb8e85e43d5ca709b9a2f0f415">
+        <dex dex="/Users/Ataru/Desktop/CordovaApp/app/build/intermediates/pre-dexed/debug/classes-9417c1de6153c54044ca5295905c511873e7954c.jar" />
+    </item>
+    <item
+        jar="/Users/Ataru/Desktop/CordovaApp 2/app/build/intermediates/exploded-aar/CordovaApp 2/CordovaLibrary/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9eb8fc5fe5282d6f06231a259016fdc631439992">
+        <dex dex="/Users/Ataru/Desktop/CordovaApp 2/app/build/intermediates/pre-dexed/debug/classes-86a8d9c96d2c79185800b2dfe4820e9f6ec89c1e.jar" />
+    </item>
+
+</items>

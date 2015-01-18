@@ -1,0 +1,2 @@
+/Users/Ataru/Desktop/CordovaApp 2/app/build/intermediates/classes/debug
+/Users/Ataru/Desktop/CordovaApp 2/app/build/intermediates/pre-dexed/debug/classes-86a8d9c96d2c79185800b2dfe4820e9f6ec89c1e.jar
