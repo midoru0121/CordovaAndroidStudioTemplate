@@ -4,4 +4,8 @@
 
 ###Usage
 
-Just open the CordovaAndroidStudioTemplate directory with Android Studio.
+1: Open the CordovaAndroidStudioTemplate directory with Android Studio.
+
+2: Sync the project with Gradle Files.
+
+
