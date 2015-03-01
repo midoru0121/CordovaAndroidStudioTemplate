@@ -4,8 +4,6 @@
 
 ###Usage
 
-1: Open the CordovaAndroidStudioTemplate directory with Android Studio.
+See Wiki.
 
-2: Sync the project with Gradle Files.
-
-
+[Wiki](https://github.com/AtaruOhto/CordovaAndroidStudioTemplate/wiki/CordovaAndroidStudioTemplate-Wiki "Wiki")
