@@ -4,6 +4,6 @@
 
 ###Usage
 
-See Wiki.
+See CordovaAndroidStudioTemplate Wiki.
 
-[Wiki](https://github.com/AtaruOhto/CordovaAndroidStudioTemplate/wiki/CordovaAndroidStudioTemplate-Wiki "Wiki")
+[CordovaAndroidStudioTemplate Wiki](https://github.com/AtaruOhto/CordovaAndroidStudioTemplate/wiki/CordovaAndroidStudioTemplate-Wiki "Wiki")
