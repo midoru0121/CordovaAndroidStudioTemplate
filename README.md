@@ -1,6 +1,6 @@
 # CordovaAndroidStudioTemplate
 
-> The personal template to start develop with cordova immediately.
+> The personal template to start developing with Cordova.
 
 ###Usage
 
